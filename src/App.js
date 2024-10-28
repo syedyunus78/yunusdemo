@@ -16,6 +16,7 @@ function App() {
 <div style={{backgroundColor:"grey", color:"white", justifyContent:"center", textAlign:"center", padding:"2rem", }}>
 <img src={myImage} style={{borderRadius:"90px",height:"180px"}} alt="Description of the image"  />
   <h1> syed yunus </h1>
+  <p>software developer</p>
   <p>Frontend ReactJS Developer with a strong focus on building interactive and responsive web applications. Skilled in JavaScript, modern libraries, and frameworks like React and Redux. Passionate about clean code, user experience, and optimizing performance.</p>
 </div>
     </div>
