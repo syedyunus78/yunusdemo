@@ -18,7 +18,8 @@ function App() {
   <h1> syed yunus </h1>
   <p>software developer</p>
   <p>Frontend ReactJS Developer with a strong focus on building interactive and responsive web applications. Skilled in JavaScript, modern libraries, and frameworks like React and Redux. Passionate about clean code, user experience, and optimizing performance.</p>
-</div>
+
+<p>free hosted</p></div>
     </div>
 
 
