@@ -18,10 +18,10 @@ function App() {
 <div style={{
   background: "linear-gradient(to right, #00c853, #b2ff59)", // Green gradient colors
   padding: "10px", // Adjust to control the border width
-  borderRadius: "50%", // Ensures the background is circular
+  borderRadius: "90%", // Ensures the background is circular
   display: "inline-block" // Keeps the container just around the image
 }}>
-  <img src={myImage} style={{ borderRadius: "90px", height: "180px" }} alt="Description of the image" />
+  <img src={myImage} style={{ borderRadius: "93px", height: "190px" }} alt="Description of the image" />
 </div>
   <h1> Syed yunus </h1>
   
