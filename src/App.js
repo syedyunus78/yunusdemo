@@ -14,9 +14,9 @@ function App() {
   <h1>hello syed</h1>
 
 </div> */}
-<div style={{backgroundColor:"grey", color:"white", justifyContent:"center", textAlign:"center", padding:"2rem", }}>
+<div style={{backgroundColor:"grey", color:"black", justifyContent:"center", textAlign:"center", padding:"2rem", }}>
 <img src={myImage} style={{borderRadius:"90px",height:"180px"}} alt="Description of the image"  />
-  <h1> syed yunus (Software developer) </h1>
+  <h1> syed yunus <p>Software developer</p> </h1>
  
   <h2 style={{color:"brown"}}>Who am i ?</h2>
   <p>Frontend ReactJS Developer with a strong focus on building interactive and responsive web applications. Skilled in JavaScript, modern libraries, and frameworks like React and Redux. Passionate about clean code, user experience, and optimizing performance.</p>
