@@ -13,8 +13,8 @@ function App() {
   <h1>hello syed</h1>
 
 </div> */}
-<div style={{backgroundColor:"grey", color:"white", justifyContent:"center", textAlign:"center", padding:"2rem", }}>
-<img src={myImage} style={{borderRadius:"90px",height:"180px"}} alt="Description of the image"  />
+<div style={{backgroundColor:"brown", color:"white", justifyContent:"center", textAlign:"center", padding:"2rem", }}>
+<img src={myImage} style={{borderRadius:"88px",height:"190px"}} alt="Description of the image"  />
   <h1> syed yunus </h1>
   <p>software developer</p>
   <p>am creating new software</p>
