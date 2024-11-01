@@ -18,7 +18,7 @@ function App() {
 <img src={myImage} style={{borderRadius:"90px",height:"180px"}} alt="Description of the image"  />
   <h1> syed yunus &nbsp; (Software developer) </h1>
  
-  <h1 style={{color:"blue"}}>Who am i ?</h1>
+  <h2 style={{color:"brown"}}>Who am i ?</h2>
   <p>Frontend ReactJS Developer with a strong focus on building interactive and responsive web applications. Skilled in JavaScript, modern libraries, and frameworks like React and Redux. Passionate about clean code, user experience, and optimizing performance.</p>
 
 </div>
