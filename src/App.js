@@ -18,11 +18,11 @@ function App() {
 <div style={{
   background: "linear-gradient(to right, #ff7e5f, #feb47b)", // Customize your colors here
   padding: "10px", // Adjust padding to control the border width
-  borderRadius: "50%", // Ensures the background is circular
+  borderRadius: "80%", // Ensures the background is circular
   display: "inline-block" // Keeps the container just around the image
 }}>
   <img src={myImage} style={{ borderRadius: "90px", height: "180px" }} alt="Description of the image" />
-</div>bb
+</div>
   <h1> Syed yunus </h1>
   
   <h2 style={{color:"green" , display:"flex", textAlign:"center",justifyContent:"center"}}>Who am i ?</h2>
