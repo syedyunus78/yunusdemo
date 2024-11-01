@@ -16,9 +16,9 @@ function App() {
 </div> */}
 <div style={{backgroundColor:"black", color:"white", justifyContent:"center", textAlign:"center", padding:"2rem", }}>
 <div style={{
-  background: "linear-gradient(to right, #ff7e5f, #feb47b)", // Customize your colors here
-  padding: "10px", // Adjust padding to control the border width
-  borderRadius: "80%", // Ensures the background is circular
+  background: "linear-gradient(to right, #00c853, #b2ff59)", // Green gradient colors
+  padding: "10px", // Adjust to control the border width
+  borderRadius: "50%", // Ensures the background is circular
   display: "inline-block" // Keeps the container just around the image
 }}>
   <img src={myImage} style={{ borderRadius: "90px", height: "180px" }} alt="Description of the image" />
