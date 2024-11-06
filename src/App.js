@@ -1,6 +1,7 @@
 import React from "react"
 import myImage from '../src/image/yunuspic1.png';
 import myImagepic from "../src/image/phases_of_e_commerce_project_management_plan_slide01.jpg"
+import Newlogo from "./Newlogo";
 function App() {
 
 
@@ -31,6 +32,9 @@ function App() {
 
 </div>
 <img  src={myImagepic} style={{width:"100%",height:"100%"}}/>
+
+<br/>
+<Newlogo/>
     </div>
 
 
